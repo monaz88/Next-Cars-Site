@@ -15,10 +15,10 @@ const Layout = ({ children }) => {
 
       <footer className={styles.footer}>
         <a href="https://example.com" target="_blank">
-          botostart
+         Car-Sale
         </a>
         {" | "}
-        next.js course | botocart project © {new Date().getFullYear()}
+       Developed By Mona © {new Date().getFullYear()}
       </footer>
     </>
   );
